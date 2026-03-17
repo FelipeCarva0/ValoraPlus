@@ -33,6 +33,7 @@ O projeto visa apoiar usuários na tomada de decisão financeira, permitindo:
 
 ## 🚀 Como executar o projeto
 
+## Certifique-se que está na pasta Valora+
 ```bash
 # Instalar dependências
 npm install
